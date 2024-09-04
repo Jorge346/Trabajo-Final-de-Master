@@ -1,0 +1,1 @@
+Este repositorio alberga el código fuente, los conjuntos de datos y los recursos adicionales empleados en la elaboración del Trabajo Fin de Máster de Jorge López, titulado "Aplicación de Algoritmos de Clustering a Series Temporales de Datos Financieros: Un Estudio Comparativo"
